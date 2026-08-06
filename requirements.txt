@@ -1,0 +1,11 @@
+numpy ==  1.26.4
+pandas == 3.0.5
+matplotlib == 3.11.1
+torch == 2.2.2
+transformers == 4.41.2
+scikit-learn == 1.9.0
+accelerate == 1.14.0
+safetensors == 0.8.0
+huggingface-hub == 0.36.2
+tokenizers ==  0.19.1
+random == N/A
