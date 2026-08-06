@@ -51,9 +51,9 @@ This trained model was evaluated by using the given public test dataset called "
 
 ## Running the Jupyter Notebook
 
-#1. Install the required Python packages from "requirements.txt":
+#1. Install the required Python packages from "requirements.txt" by using the following command:
 
-'''bash
+'''
 pip install -r requirements.txt
 '''
 
@@ -73,9 +73,9 @@ pip install -r requirements.txt
 
 ## Model Checkpoint
 
-This trained model can be reloaded by using:
+**This trained model can be reloaded by writing the following chunk of code:**
 
-'''python
+'''
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
 model = AutoModelForSequenceClassification.from_pretrained("model_checkpoint")
 tokenizer = AutoTokenizer.from_pretrained("model_checkpoint")
