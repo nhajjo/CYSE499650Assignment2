@@ -65,7 +65,7 @@ pip install -r requirements.txt
 
 #5. The notebook will do all of the following: 
   - Train the DistilBERT model.
-  - Save the best checkpoint inside of the folder "model_checkpoint".
+  - Save the best checkpoint inside of the folder "model_checkpoint/".
   - Evaluate the public test set model.
   - Generate a new csv file called "public_test_predictions.csv".
 
