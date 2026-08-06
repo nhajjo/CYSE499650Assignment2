@@ -23,15 +23,15 @@ The following files for this assignment are:
 ---------------------------------------------------------------------------------------
 
 ## Assignment Model/Training Details
-**Model Used:** DistilBERT ('distilbert-base-uncased')
-**Frameworks:** Hugging Face Transformers and PyTorch
-**Task:** Binary Sentiment Classification
-**Optimizer:** AdamW
-**Learning Rate:** 2E-5 or 2 * 10^-5
-**Batch Size:** 8
-**Epochs:** 5
-**Weight Decay:** 0.01
-**Maximum Sequence Length:** 256
+  - **Model Used:** DistilBERT ('distilbert-base-uncased')
+  - **Frameworks:** Hugging Face Transformers and PyTorch
+  - **Task:** Binary Sentiment Classification
+  - **Optimizer:** AdamW
+  - **Learning Rate:** 2E-5 or 2 * 10^-5
+  - **Batch Size:** 8
+  - **Epochs:** 5
+  - **Weight Decay:** 0.01
+  - **Maximum Sequence Length:** 256
 
 Note: This model was fine-tuned for binary sentiment classification.  In order to train this imbalanced training dataset, a weighted cross-entropy loss was used during the training.  And also, a created train/validation split was used to keep this class distribution.
 
