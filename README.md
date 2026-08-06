@@ -57,7 +57,7 @@ This trained model was evaluated by using the given public test dataset called "
 pip install -r requirements.txt
 '''
 
-#2. Launch the 'Jupyter Notebook' and place the following files in the main assignment directory: "train.csv" and "public_test.csv"
+#2. Launch the 'Jupyter Notebook' and place the following files inside of the main assignment directory: "train.csv" and "public_test.csv"
 
 #3 Open up the following file: "stage1_notebook.ipynb"
 
