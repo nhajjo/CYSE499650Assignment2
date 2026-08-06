@@ -77,7 +77,9 @@ pip install -r requirements.txt
 
 '''
 from transformers import AutoModelForSequenceClassification, AutoTokenizer
+
 model = AutoModelForSequenceClassification.from_pretrained("model_checkpoint")
+
 tokenizer = AutoTokenizer.from_pretrained("model_checkpoint")
 '''
 
