@@ -105,6 +105,6 @@ The "model_checkpoint/" folder will be loaded directly as a method for the hidde
 
 ## Use of Generative A.I.
 
-ChatGPT Atlas was used to help me recognize, debug, troubleshoot, and solve the tasks in order to improve the data/results.  All of the code was reviewed, tested, and executed before submitting everything.
+ChatGPT Atlas was used to help me understand, recognize, debug, troubleshoot, and solve the concepts/tasks in order to keep on improving the data/results.  All of the code was reviewed, tested, executed, verified, and runnable before submitting everything.
 
 ---------------------------------------------------------------------------------------
