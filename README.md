@@ -93,7 +93,7 @@ It generated "public_test_predictions.csv" with the 'id, predicted, label' forma
 
 ## Public Test Accuracy/Result
 
-63.25%
+**Result:** 63.25%
 
 ---------------------------------------------------------------------------------------
 
