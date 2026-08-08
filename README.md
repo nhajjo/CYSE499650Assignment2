@@ -87,7 +87,7 @@ tokenizer = AutoTokenizer.from_pretrained("model_checkpoint")
 
 ## Code Output
 
-It generated "public_test_predictions.csv" with the 'id, predicted, label' format where 'Negative = 0' or 'Positive = 0'.
+It generated "public_test_predictions.csv" with the 'id, predicted, label' format where 'Negative = 0' or 'Positive = 1'.
 
 ---------------------------------------------------------------------------------------
 
