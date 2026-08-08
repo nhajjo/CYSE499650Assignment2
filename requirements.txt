@@ -9,3 +9,6 @@ safetensors == 0.8.0
 huggingface-hub == 0.36.2
 tokenizers ==  0.19.1
 random == N/A
+Only CPU-only Training is allowed
+The inference code should be able to load a saved checkpoint and generate predictions without the need to retrain the data. 
+A strong submission does not require the largest model, but a clearer well-evaluated reliable approach that runs is better than a complicated model that cannot be reproduced, even if the model is smaller.
